@@ -6,3 +6,5 @@ a new version should introduce a test which reproduces the issue (or whatever) s
 against the new test.
 
 this is my first try, so we'll see what happens.
+
+making a small change to see if I'll still be able to edit a submodule and push it...
