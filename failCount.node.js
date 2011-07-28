@@ -35,3 +35,14 @@ var it = require('it-is')
   })
 
 })()
+
+;(function(){
+
+  var r = Report(__filename)
+
+  it(r.report).has({
+    failureCount: 0
+  , tests: []
+  })
+
+})()
